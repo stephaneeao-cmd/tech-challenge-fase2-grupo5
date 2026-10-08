@@ -30,7 +30,7 @@ Estes três links são **obrigatórios** e devem ser idênticos aos do PDF de su
 |---|---|
 | Repositório | https://github.com/stephaneeao-cmd/tech-challenge-fase2-grupo5 |
 | Vídeo executivo (≤ 5 min) | <!-- PREENCHER: YouTube não listado / Drive com acesso liberado --> |
-| Apresentação | <!-- PREENCHER: link do arquivo em `docs/` ou Drive --> |
+| Apresentação | [PDF da apresentação (Google Drive)](https://drive.google.com/file/d/1Mms1_4V8ao0HnnCu8D5rmf1wECcEVYVJ/view?usp=sharing) |
 
 > ⚠️ Repositório privado ou inacessível inviabiliza a avaliação da entrega.
 > Confira o acesso em uma janela anônima antes de enviar.
