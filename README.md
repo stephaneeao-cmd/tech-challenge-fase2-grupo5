@@ -178,16 +178,11 @@ exatamente os números da seção 5.
 
 ## 8. Tecnologias
 
-pandas==3.0.6
-
-numpy==2.4.3
-
-scikit-learn==1.9.1
-
-matplotlib==3.11.2
-
-seaborn==0.13.2
-
-jupyter==1.1.1
-
-joblib==1.6.0
+- Python 3.12.4
+- pandas 3.0.6 — manipulação dos dados
+- numpy 2.4.3 — cálculos numéricos
+- scikit-learn 1.9.1 — pré-processamento, modelos e métricas
+- matplotlib 3.11.2 / seaborn 0.13.2 — visualizações
+- joblib 1.6.0 — salvar os modelos treinados
+- jupyter 1.1.1 — execução dos notebooks
+- reportlab 5.0.1 — geração do PDF de submissão
