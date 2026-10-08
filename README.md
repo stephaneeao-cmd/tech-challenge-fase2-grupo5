@@ -163,9 +163,15 @@ exatamente os números da seção 5.
 
 ```
 .
-├── data/          dados brutos (raw) e tratados (processed) — não versionados
-├── notebooks/     análise em ordem numerada
-└── docs/          apresentação executiva
+├── data/              dados brutos (raw) e tratados (processed) — não versionados
+├── notebooks/         análise em ordem numerada (01_eda → 04_avaliacao)
+├── results/
+│   ├── figures/       gráficos gerados pelos notebooks
+│   ├── metrics/       métricas de validação e teste (CSV)
+│   └── models/        modelos treinados
+├── docs/              apresentação executiva (PDF disponível no link da seção 2)
+├── submissao/         entrega.json e script que gera o PDF de submissão
+└── requirements.txt   dependências do projeto
 ```
 
 Detalhes e convenções em [`ESTRUTURA.md`](ESTRUTURA.md).

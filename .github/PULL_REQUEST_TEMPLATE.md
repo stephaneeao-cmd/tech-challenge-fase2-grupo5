@@ -8,7 +8,6 @@
 - [ ] `02_preprocessamento`
 - [ ] `03_modelagem`
 - [ ] `04_avaliacao`
-- [ ] `src/`
 - [ ] documentação
 
 ## Antes de pedir review
