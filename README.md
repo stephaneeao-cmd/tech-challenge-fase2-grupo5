@@ -174,9 +174,6 @@ exatamente os números da seção 5.
 └── requirements.txt   dependências do projeto
 ```
 
-Detalhes e convenções em [`ESTRUTURA.md`](ESTRUTURA.md).
-Antes de enviar, percorra o [`CHECKLIST.md`](CHECKLIST.md).
-
 ---
 
 ## 8. Tecnologias
