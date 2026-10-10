@@ -8,7 +8,7 @@
 |---|---|
 | Turma |  2DTATBB |
 | Grupo | Grupo 5 |
-| Data de entrega | <!-- PREENCHER: DD/MM/AAAA --> |
+| Data de entrega | 09/10/2026 |
 
 ### Integrantes
 
